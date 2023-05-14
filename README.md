@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jihed Bouazizi</h1>
 <h3 align="center">An IT enthusiast who wants to know everything!</h3>
 
-- 🔭 I’m currently working on [SWAPPI](https://github.com/2A-22-23/project2223_2a1-2a2_the_matrix_studio)
+- 🔭 I’m currently working on [IRIS](https://github.com/Jihedbz/IRIS)
 
 - 🌱 I’m currently learning **C++**
 
