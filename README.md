@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [SWAPPI](https://github.com/2A-22-23/project2223_2a1-2a2_the_matrix_studio)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **C++/QT project**
 
-- 🤝 I’m looking for help with **PHP**
+- 🤝 I’m looking for help with **C++**
 
 - 💬 Ask me about **C language**
 
