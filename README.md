@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Wordpress Projects**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with **Symfony**
 
 - 💬 Ask me about **C++/Java**
 
