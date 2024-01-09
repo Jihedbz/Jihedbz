@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jihed Bouazizi</h1>
 <h3 align="center">An IT enthusiast who wants to know everything!</h3>
 
-- 🔭 I’m currently working on [IRIS](https://github.com/Jihedbz/IRIS)
+- 🔭 I’m currently working on [Nothing]()
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **C++/QT project**
+- 👯 I’m looking to collaborate on **Wordpress Projects**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for help with ****
 
-- 💬 Ask me about **C language**
+- 💬 Ask me about **C++/Java**
 
-- 📫 How to reach me **Jihed.bouazizi@esprit.tn**
+- 📫 How to reach me **Jih3db@gmail.com**
 
 - ⚡ Fun fact **I believe that I'm a genius (sometimes).**
 
