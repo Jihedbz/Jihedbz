@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jihed Bouazizi</h1>
 <h3 align="center">An IT enthusiast who wants to know everything!</h3>
 
-- 🔭 I’m currently working on **TechTerra**
+- 🔭 I’m currently working on **HealthyLife**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Angular/SpringBoot**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **OpenSatck**
 
-- 🤝 I’m looking for help with **Symfony**
+- 🤝 I’m looking for help with **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [Artovis.tn](Artovis.tn)
 
