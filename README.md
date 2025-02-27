@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jihed-bouazizi-05b6a5171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihed-bouazizi-05b6a5171/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@jihedbouazizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jihedbouazizi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jihed-bouazizi-05b6a5171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jihed-bouazizi-05b6a5171/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jihedbouazizi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@jihedbouazizi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
