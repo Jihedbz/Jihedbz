@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jihed Bouazizi</h1>
-<h3 align="center">A passionate Cloud Engineering Student</h3>
+<h3 align="center">A passionate Cloud-Native Enginner</h3>
 
 
 - 🔭 I’m currently working on [Angular x Spring Boot Project](https://github.com/Jihedbz/Spring-boot-user-management-auth)
 
-- 🌱 I’m currently learning **Angular x Spring Boot**
+- 🌱 I’m currently learning **OpenShift**
 
-- 👯 I’m looking to collaborate on **Angular application**
+- 👯 I’m looking to collaborate on **Full stack applications**
 
-- 🤝 I’m looking for help with **Openstack**
+- 🤝 I’m looking for help with **Tekton**
 
 - 💬 Ask me about **Java**
 
