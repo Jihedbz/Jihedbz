@@ -9,37 +9,42 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=openstack" height="60" alt="openstack logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="60" alt="redhat logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="60" alt="argocd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="60" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="60" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="60" alt="rabbitmq logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tauri" height="60" alt="tauri logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="60" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/redhat/EE0000" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="60" alt="argocd logo"  />
 </div>
-
 ###
 
 <div align="center">
